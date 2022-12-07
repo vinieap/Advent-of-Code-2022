@@ -11,7 +11,7 @@ Day 2 - <img src="./imgs/gold_star.svg" width="13"><img src="./imgs/gold_star.sv
 Day 3 - <img src="./imgs/gold_star.svg" width="13"><img src="./imgs/gold_star.svg" width="13"> <br>
 Day 4 - <img src="./imgs/gold_star.svg" width="13"><img src="./imgs/gold_star.svg" width="13"> <br>
 Day 5 - <img src="./imgs/gold_star.svg" width="13"><img src="./imgs/gold_star.svg" width="13"> <br>
-Day 6 - <img src="./imgs/empty_star.svg" width="13"><img src="./imgs/empty_star.svg" width="13"> <br>
+Day 6 - <img src="./imgs/gold_star.svg" width="13"><img src="./imgs/gold_star.svg" width="13"> <br>
 Day 7 - <img src="./imgs/empty_star.svg" width="13"><img src="./imgs/empty_star.svg" width="13"> <br>
 Day 8 - <img src="./imgs/empty_star.svg" width="13"><img src="./imgs/empty_star.svg" width="13"> <br>
 Day 9 - <img src="./imgs/empty_star.svg" width="13"><img src="./imgs/empty_star.svg" width="13"> <br>
