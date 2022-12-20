@@ -32,8 +32,6 @@ What is the surface area of your scanned lava droplet?
 import re
 from collections import deque
 
-import networkx as nx
-
 points = set()
 
 with open("input.txt", "r") as f:
